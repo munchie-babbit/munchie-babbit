@@ -1,6 +1,7 @@
-### Hi there! 👋
+### Hi there! 🐟🐟🐟
 
-Checkout my website @ [estellechung.com](www.estellechung.com)
+I'm Estelle, a fullstack developer with past lives as a product designer and artist.
+## Checkout my website @ [estellechung.com](https://estellechung.com/)
 
 <!--
 **munchie-babbit/munchie-babbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
