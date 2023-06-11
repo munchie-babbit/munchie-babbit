@@ -1,7 +1,6 @@
 ## Hi there! ⛰️🏕️🦀
 
-I'm Estelle, a fullstack developer who is always up for a challenge! I've got past lives as a product designer and artist.
-### Checkout my website @ [estellechung.com](https://estellechung.com/)
+I'm Estelle, a fullstack developer who is always up for a challenge! I've got past lives as a product designer and artist. Learn more @ [estellechung.com](https://estellechung.com/)
 
 ### Fun info about me
 I attended 2019 Hack the North @ University of Waterloo
