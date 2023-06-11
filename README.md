@@ -6,12 +6,15 @@ I'm Estelle, a fullstack developer who is always up for a challenge! I've got pa
 ### Fun info about me
 I attended 2019 Hack the North @ University of Waterloo
 - 🏆 Won Best Use of Freshbooks API
+
 I attended 2020 Treehacks @ Stanford
 - 🏆 Won Moonshot Prize
 - 🏆 Won Neo Perseverance Prize
+
 I co-founded my own green tech startup
 - 🌱 [Neutral](https://shopneutral.io/index.html) is a browser extension that calculates the carbon footprint of online purchases
 - Incubated @ [Mozilla Builders](https://medium.com/mozilla-builders/mozilla-builders-fix-the-internet-showcase-24-awesome-pitches-much-much-more-fcd9c9ebb042), Won a Golden Kitty for #4 Social Impact on [Product Hunt](https://www.producthunt.com/products/neutral), Featured in [TechCrunch](https://techcrunch.com/2020/05/14/mozilla-goes-full-incubator-with-fix-the-internet-startup-lab-and-early-stage-investments/)
+
 I'm currently working on
 - 🐱‍💻 Building out automations and tools to support my online Etsy store selling prints
 - 🏃‍♀️ Training to run a marathon (after running my first 1/2 marathon)
